@@ -1,0 +1,46 @@
+{
+  "3324_雙鴻": [
+    {"name": "兆豐_新莊", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=3324&BHID=8840&b=8842"},
+    {"name": "永豐金_新莊", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=3324&b=0039004100390048&BHID=9A00"},
+    {"name": "凱基_新莊", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=3324&b=0039003200310053&BHID=9200"},
+    {"name": "元大_羅東", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=3324&BHID=9800&b=0039003800320041"},
+    {"name": "元大_南屯", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=3324&BHID=9800&b=9853"},
+    {"name": "元大_新竹經國", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=3324&BHID=9800&b=9859"}    
+  ],
+  "3661_世芯": [
+    {"name": "元大_復北", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=3661&BHID=9800&b=9872"},
+    {"name": "華南永昌_竹北", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=3661&BHID=9300&b=9339"},
+    {"name": "國泰_敦南", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=3661&BHID=8880&b=8888"},
+    {"name": "元大_南屯", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=3661&b=9853&BHID=9800"}
+  ],
+  "6643_M31": [
+    {"name": "合庫_新竹", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=6643&b=0031003000320041&BHID=1020"},
+    {"name": "凱基_高美館", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=6643&b=9215&BHID=9200"},
+    {"name": "永豐金_新竹", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=6643&b=0039004100390037&BHID=9A00"},
+    {"name": "富邦_竹東", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=6643&b=9625&BHID=9600"},
+    {"name": "新光_新竹", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=6643&b=8563&BHID=8560"},
+    {"name": "凱基_永華", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=6643&b=9235&BHID=9200"},
+    {"name": "第一金_頭份", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=6643&b=0035003300380049&BHID=5380"}
+  ],
+  "6526_達發": [
+    {"name": "元大_松江", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=6526&BHID=9800&b=9801"},
+    {"name": "玉山_大里", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=6526&b=003800380034004a&BHID=8840"},
+    {"name": "富邦_陽明", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=6526&b=9604&BHID=9600"},
+    {"name": "元大_彰化民生", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=6526&b=003900380039004a&BHID=9800"},
+    {"name": "永豐金_新竹", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=6526&b=0039004100390037&BHID=9A00"},
+    {"name": "兆豐_忠孝", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=6526&b=0037003000300061&BHID=7000"}
+  ],
+  "4749_新應材": [
+    {"name": "兆豐_東門", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=4749&b=0037003000300048&BHID=7000"},
+    {"name": "元大_中崙", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=4749&b=9813&BHID=9800"},
+    {"name": "兆豐_寶成", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=4749&BHID=7000&b=0037003000300072"},
+    {"name": "凱基_中港", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=4749&b=9202&BHID=9200"},
+    {"name": "富邦_竹科", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=4749&b=0039003600320043&BHID=9600"}
+  ],
+  "5234_達興材料": [
+    {"name": "元大_北投", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=5234&b=0039003800390041&BHID=9800"},
+    {"name": "兆豐_員林", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=5234&b=003700300030006b&BHID=7000"},
+    {"name": "富邦_公益", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=5234&b=0039003600310046&BHID=9600"},
+    {"name": "凱基_市府", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=5234&b=0039003200300044&BHID=9200"}
+  ]
+}
