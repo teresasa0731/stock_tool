@@ -55,7 +55,8 @@ def main():
             all_data.append(df)
             time.sleep(1)
     
-    final_df = pd.concat(all_data, ignore_index=True).apply(format_net_buy_sell)
+    final_df = pd.concat(all_data, ignore_index=True)
+    final_df['買賣超'] = final_df['買賣超'].apply(format_net_buy_sell)
     final_df.to_csv('data/stock_data.csv', index=False, encoding='utf-8-sig')
     print("資料已儲存到 data/stock_data.csv")
 

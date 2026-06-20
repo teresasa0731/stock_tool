@@ -3,6 +3,7 @@ import pandas as pd
 import json
 
 st.title("券商買賣超資料查詢")
+st.info("資料每日 18:30 自動更新，若需補抓資料請聯繫Sasa。")
 
 # 讀取資料
 df = pd.read_csv("data/stock_data.csv")
