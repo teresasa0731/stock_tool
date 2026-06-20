@@ -31,6 +31,11 @@ def get_broker_data(url):
     
     return pd.DataFrame(data)
 
+def format_net_buy_sell(value):
+    val = int(str(value).replace(',', ''))
+    if val < 0:
+        return f"({abs(val)})"
+    return str(val)
 
 def main():
     with open('brokers.json', 'r', encoding='utf-8') as f:
@@ -50,7 +55,7 @@ def main():
             all_data.append(df)
             time.sleep(1)
     
-    final_df = pd.concat(all_data, ignore_index=True)
+    final_df = pd.concat(all_data, ignore_index=True).apply(format_net_buy_sell)
     final_df.to_csv('data/stock_data.csv', index=False, encoding='utf-8-sig')
     print("資料已儲存到 data/stock_data.csv")
 
