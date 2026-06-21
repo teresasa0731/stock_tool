@@ -4,6 +4,7 @@ import pandas as pd
 import urllib3
 import json
 import time
+import os
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
@@ -38,7 +39,9 @@ def format_net_buy_sell(value):
     return str(val)
 
 def main():
-    with open('brokers.json', 'r', encoding='utf-8') as f:
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    json_path = os.path.join(base_dir, 'brokers.json')
+    with open(json_path, 'r', encoding='utf-8') as f:
         config = json.load(f)
     
     all_data = []
