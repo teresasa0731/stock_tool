@@ -61,8 +61,9 @@ def main():
     
     final_df = pd.concat(all_data, ignore_index=True)
     final_df['買賣超'] = final_df['買賣超'].apply(format_net_buy_sell)
-    final_df.to_csv('data/stock_data.csv', index=False, encoding='utf-8-sig')
-    print("資料已儲存到 data/stock_data.csv")
+    output_path = os.path.join(os.getcwd(), 'data', 'stock_data.csv')
+    final_df.to_csv(output_path, index=False, encoding='utf-8-sig')
+    print(f"DEBUG: 檔案已儲存至 {output_path}")
 
 if __name__ == "__main__":
     main()
