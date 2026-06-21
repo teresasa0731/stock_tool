@@ -33,5 +33,10 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add data/stock_data.csv
-          git diff --quiet && exit 0 || git commit -m "Update stock data"
+          if ! git diff --cached --quiet; then
+            git commit -m "Update stock data"
+            git push
+          else
+            echo "沒有檢測到 CSV 變更，跳過提交。"
+          fi
           git push
