@@ -39,9 +39,6 @@ def format_net_buy_sell(value):
     return str(val)
 
 def main():
-    print(f"--- DEBUG INFO ---")
-    print(f"當前工作目錄: {os.getcwd()}")
-    print(f"檔案列表 (檢查有沒有 brokers.json): {os.listdir(os.getcwd())}")
     
     base_dir = os.path.dirname(os.path.abspath(__file__))
     json_path = os.path.join(base_dir, 'brokers.json')
