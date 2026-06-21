@@ -42,5 +42,35 @@
     {"name": "兆豐_員林", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=5234&b=003700300030006b&BHID=7000"},
     {"name": "富邦_公益", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=5234&b=0039003600310046&BHID=9600"},
     {"name": "凱基_市府", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=5234&b=0039003200300044&BHID=9200"}
+  ],
+    "6719_力智": [
+    {
+      "name": "第一金_新竹",
+      "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=6719&b=0035003300380042&BHID=5380"
+    },
+    {
+      "name": "元大_竹科",
+      "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=6719&b=003900380030004b&BHID=9800"
+    },
+    {
+      "name": "永豐金_竹科",
+      "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=6719&b=0039004100390058&BHID=9A00"
+    },
+    {
+      "name": "富邦_竹北",
+      "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=6719&b=9624&BHID=9600"
+    },
+    {
+      "name": "玉山_左營",
+      "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=6719&b=0038003800340044&BHID=8840"
+    },
+    {
+      "name": "元大_鶯歌",
+      "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=6719&b=0039003800310041&BHID=9800"
+    },
+    {
+      "name": "玉山_高雄",
+      "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=6719&b=8843&BHID=8840"
+    }
   ]
 }
