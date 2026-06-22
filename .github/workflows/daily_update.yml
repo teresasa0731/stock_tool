@@ -2,7 +2,7 @@ name: Daily Stock Scraper
 
 on:
   schedule:
-    - cron: '40 13 * * *' # 台灣時間 18:30 (UTC 10:30)
+    - cron: '45 13 * * *' # 台灣時間 18:30 (UTC 10:30)
   workflow_dispatch:
 
 jobs:
