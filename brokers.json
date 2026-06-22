@@ -11,7 +11,39 @@
     {"name": "元大_復北", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=3661&BHID=9800&b=9872"},
     {"name": "華南永昌_竹北", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=3661&BHID=9300&b=9339"},
     {"name": "國泰_敦南", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=3661&BHID=8880&b=8888"},
-    {"name": "元大_南屯", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=3661&b=9853&BHID=9800"}
+    {"name": "元大_南屯", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=3661&b=9853&BHID=9800"},
+    {
+      "name": "元大_崇德",
+      "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=3661&BHID=9800&b=0039003800310053"
+    },
+    {
+      "name": "群益金鼎_古亭",
+      "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=3661&BHID=9100&b=0039003100380043"
+    },
+    {
+      "name": "凱基_台南",
+      "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=3661&BHID=9200&b=9211"
+    },
+    {
+      "name": "台企銀_九如",
+      "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=3661&BHID=1110&b=1113"
+    },
+    {
+      "name": "第一金_澎湖",
+      "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=3661&BHID=5380&b=5387"
+    },
+    {
+      "name": "富邦_陽明",
+      "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=3661&b=9604&BHID=9600"
+    },
+    {
+      "name": "富邦_新竹",
+      "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=3661&b=9647&BHID=9600"
+    },
+    {
+      "name": "華南永昌_大甲",
+      "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=3661&BHID=9300&b=9315"
+    }
   ],
   "6643_M31": [
     {"name": "合庫_新竹", "url": "https://fubon-ebrokerdj.fbs.com.tw/z/zc/zco/zco0/zco0.djhtm?a=6643&b=0031003000320041&BHID=1020"},
