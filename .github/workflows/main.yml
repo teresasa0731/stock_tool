@@ -1,0 +1,45 @@
+name: Daily Stock Scraper
+
+on:
+  schedule:
+    - cron: '40 13 * * *' # 台灣時間 18:30 (UTC 10:30)
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          clean: true 
+          fetch-depth: 0 
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install pandas beautifulsoup4 requests urllib3
+
+      - name: Clean Cache
+        run: rm -rf __pycache__
+
+      - name: Run Scraper
+        run: python scraper.py
+
+      - name: Commit and Push results
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add data/stock_data.csv
+          if ! git diff --cached --quiet; then
+            git commit -m "Update stock data"
+            git push
+          else
+            echo "沒有檢測到 CSV 變更，跳過提交。"
+          fi
+          git push
