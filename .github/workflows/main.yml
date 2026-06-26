@@ -2,7 +2,7 @@ name: Daily Stock Scraper
 
 on:
   schedule:
-    - cron: '17 10 * * *'
+    - cron: '17 09 * * *'
   workflow_dispatch:
 
 jobs:
